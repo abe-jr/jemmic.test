@@ -1,2 +1,2 @@
-# jemmic.test
+# Jemmic
 Address book Jemmic challenge.
