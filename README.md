@@ -1,2 +1,4 @@
 # Jemmic
-Address book Jemmic challenge.
+Address book Jemmic challenge. 
+
+Run instructions
