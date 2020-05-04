@@ -14,13 +14,3 @@ Time spent to finish: 8 hours
 Coffee cup consumed: 4
 
 Issues: find a good way to manage the .txt files without repeat. 
-
-
-
-Thank you so much, Jemmic team :D 
-
-Contact: 
-+55 11 99820 4643
-
-Instagram:
-@abeguczak
